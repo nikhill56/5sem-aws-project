@@ -1,6 +1,6 @@
 {
   "auth": {
-    "movieshubv2806e9b91": {
+    "movieshubfinaltwo40bc6411": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
